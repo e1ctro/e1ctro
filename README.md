@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 atualmente estou no 3 ano do ensino médio
 - 🌱 Atualmente estou aprendendo programação
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Como entrar em contato comigo: insta papai
 - ⚡ Curiosidade: jogador amador de cs 2
   
