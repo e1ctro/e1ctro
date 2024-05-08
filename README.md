@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on estudando
+- 🔭 atualmente estou no 3 ano do ensino médio
 - 🌱 Atualmente estou aprendendo programação
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
